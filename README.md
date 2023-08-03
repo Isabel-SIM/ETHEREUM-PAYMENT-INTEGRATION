@@ -2,7 +2,7 @@
 
 
 ## Background
-Welcome to KryptoJobs2Go! This application allows customers to find fintech professionals from a list of candidates, hire them, and pay them with cryptocurrency. As the lead developer, you have integrated the Ethereum blockchain network into the application, enabling customers to make instant payments with cryptocurrency.
+Welcome to KryptoJobs2Go! This application allows customers to find fintech professionals from a list of candidates, hire them, and pay them with cryptocurrency. As the lead developer, I have integrated the Ethereum blockchain network into the application, enabling customers to make instant payments with cryptocurrency.
 
 ## How to Use
 To use KryptoJobs2Go, follow these steps:
@@ -11,7 +11,7 @@ To use KryptoJobs2Go, follow these steps:
 2. In the sidebar, you'll see your Ethereum account address and balance.
 3. Choose a fintech professional from the drop-down menu and enter the number of hours you want to hire them for.
 4. The application will calculate the total wage for the fintech professional in ether.
-5. Click the "Send Transaction" button to initiate the payment process. You will need to sign the transaction using your Ethereum account.
+5. Click the "Send Transaction" button to initiate the payment process.
 6. If the transaction is successful, a transaction hash will be displayed on the sidebar, and balloons will celebrate your successful payment!
 
 ## Importing Ethereum Transaction Functions
