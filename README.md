@@ -40,12 +40,12 @@ After sending the transaction, you can inspect the details on the Ganache blockc
 <br>
 Main Page:
 <br>
-(https://github.com/Isabel-SIM/WEEK-NINETEEN-HOMEWORK/Images/5.png) <br>
+(https://github.com/Isabel-SIM/WEEK-NINETEEN-HOMEWORK/blob/main/Images/5.png) <br>
 <br>
 Client Account Address and Ethernet Balance in Ether: <br>
-(https://github.com/Isabel-SIM/WEEK-NINETEEN-HOMEWORK/Images/1.png) <br>
-(https://github.com/Isabel-SIM/WEEK-NINETEEN-HOMEWORK/Images/2.png) <br>
-(https://github.com/Isabel-SIM/WEEK-NINETEEN-HOMEWORK/Images/3.png) <br>
-(https://github.com/Isabel-SIM/WEEK-NINETEEN-HOMEWORK/Images/4.png) <br>
+(https://github.com/Isabel-SIM/WEEK-NINETEEN-HOMEWORK/blob/main/Images/1.png) <br>
+(https://github.com/Isabel-SIM/WEEK-NINETEEN-HOMEWORK/blob/main/Images/2.png) <br>
+(https://github.com/Isabel-SIM/WEEK-NINETEEN-HOMEWORK/blob/main/Images/3.png) <br>
+(https://github.com/Isabel-SIM/WEEK-NINETEEN-HOMEWORK/blob/main/Images/4.png) <br>
 
 Thank you for using KryptoJobs2Go!
